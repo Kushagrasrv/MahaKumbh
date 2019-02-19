@@ -1,0 +1,25 @@
+body
+{
+	background-color: #1D2734;
+}
+#edittext
+{
+	resize: none;
+	border:2px solid black;
+	padding: 5px;
+	font-size: 16px;
+	color: brown;
+}
+#submit
+{
+	width:300px;
+		height:33px;
+		margin-left:50px;
+		margin-top:8px;
+		border:0px;
+		font-size:18px;
+		border-radius:4px;
+		background-color:#ca1d1d;
+		color: #EEDCCD;
+		cursor:hand;
+}

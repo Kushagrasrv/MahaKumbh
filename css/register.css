@@ -1,0 +1,90 @@
+body
+{
+	background: url("../images/4.jpg");
+}
+#login
+	{
+		width:375px;
+		height:500px;
+		margin:auto;
+		background-color: #1D2734;
+		margin-top:25px;
+		border:0.5px solid black;
+		box-shadow:4px 4px 15px black;
+		border-radius: 8px;
+	}
+#sbtn
+	{
+		width:300px;
+		height:33px;
+		margin-left:50px;
+		margin-top:8px;
+		border:0px;
+		font-size:18px;
+		border-radius:4px;
+		background-color:#ca1d1d;
+		color: #EEDCCD;
+		cursor:hand;
+	}
+#user
+	{
+		text-decoration:none;
+		color:white;
+		margin-left:50px;
+		color: brown;
+	}
+	#uname
+	{
+		width:300px;
+		height:40px;
+		margin-left:35px;
+		margin-top:25px;
+		font-size:16px;
+		padding-left:10px;
+		border:0.5px solid #0272A6;
+		border-radius: 8px;
+	}
+	#eid
+	{
+		width:300px;
+		height:40px;
+		margin-left:35px;
+		margin-top:10px;
+		font-size:16px;
+		padding-left:10px;
+		border:0.5px solid #0272A6;
+		border-radius: 8px;
+	}
+	#pass
+	{
+		width:300px;
+		height:40px;
+		margin-left:35px;
+		margin-top:10px;
+		font-size:16px;
+		padding-left:10px;
+		border:0.5px solid #0272A6;
+		border-radius: 8px;
+	}
+	#cpass
+	{
+		width:300px;
+		height:40px;
+		margin-left:35px;
+		margin-top:10px;
+		font-size:16px;
+		padding-left:10px;
+		border:0.5px solid #0272A6;
+		border-radius: 8px;
+	}
+	#mnumber
+	{
+		width:300px;
+		height:40px;
+		margin-left:35px;
+		margin-top:10px;
+		font-size:16px;
+		padding-left:10px;
+		border:0.5px solid #0272A6;
+		border-radius: 8px;
+	}
