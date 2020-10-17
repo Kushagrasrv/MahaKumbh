@@ -13,6 +13,7 @@
 		fclose($fp);
 		//echo "File Size : ".$filesize." <br><br>";
 		//echo "Content : <br><br>".$content;
+		//echo "conteny"
 	}
 
 ?>
